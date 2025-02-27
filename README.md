@@ -23,3 +23,7 @@ __Melhoria 1__, _melhoria 2_
     3. CSS diferente para grupos de cliente
 2. Integração com outro pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Logo Windows 3 e MS-DOS 6](img/ms-dos_win311.jpeg)
