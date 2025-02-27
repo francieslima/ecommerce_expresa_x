@@ -43,3 +43,11 @@ Contribuidor principal: https://www.github.com/matheusbattisti
 #### Imagem com link embutido
 
 [![Logo do Samba](https://www.kindpng.com/picc/m/633-6330719_ubuntu-linux-samba-ubuntu-linux-logo-hd-png.png)](https://www.samba.org/)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
