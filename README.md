@@ -27,3 +27,7 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem local
 
 ![Logo Windows 3 e MS-DOS 6](img/ms-dos_win311.jpeg)
+
+### Imagem externa
+
+![Logo do PHP](https://commons.wikimedia.org/wiki/File:Php-logo.png)
